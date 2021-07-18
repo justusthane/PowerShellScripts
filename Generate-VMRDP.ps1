@@ -1,8 +1,8 @@
 $rdpParameters = @"
 screen mode id:i:1
 use multimon:i:0
-desktopwidth:i:1024
-desktopheight:i:768
+desktopwidth:i:800
+desktopheight:i:600
 session bpp:i:32
 winposstr:s:0,1,1230,102,1920,700
 compression:i:1
